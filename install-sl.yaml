@@ -1,5 +1,5 @@
 ---
-- name: Managing the sl package - v.02
+- name: Managing the sl package - v.03
   hosts: all
   tasks:
   - name: Manage sl package on CentOS
